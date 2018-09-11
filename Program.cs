@@ -9,6 +9,10 @@ namespace Projeto_Xadrez {
         static void Main(string[] args) {
             Console.WriteLine("hello");
             Console.WriteLine("good nigth!");
+
+            for (int i = 0; i < 8; i++) {
+                Console.WriteLine("teste");
+            }
         }
     }
 }
